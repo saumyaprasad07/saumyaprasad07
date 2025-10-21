@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Saumya Chandrakant Prasad</h1>
 <h3 align="center">🎓 MS in Information Systems | California State University, Long Beach</h3>
-<h4 align="center">📊 Data | BI | Customer Success Analyst</h4>
+<h4 align="center">📊 Data | BI | Product | Growth </h4>
 
 ---
 
