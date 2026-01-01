@@ -56,22 +56,4 @@
 
 ---
 
-### 🤝 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/saumyaprasad07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:saumya.prasad460@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://saumya-prasad.lovable.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/saumyaprasad07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
 ⭐ *“Data transforms businesses only when stories meet strategy.”*
